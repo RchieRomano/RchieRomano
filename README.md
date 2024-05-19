@@ -19,5 +19,5 @@ New Era University
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/r-chie-romano-1923a930a/](https://www.linkedin.com/in/r-chie-romano-1923a930a/)
-- Email: [romanorchie@gmail.com](mailto:romanorchie@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/r-chie-romano-1923a930a/)
+-  [Email](mailto:romanorchie@gmail.com)
